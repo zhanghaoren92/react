@@ -1,0 +1,15 @@
+export const VIEW_NAV = 'VIEW_NAV';
+export const VIEW_FOOT = 'VIEW_FOOT';
+export const VIEW_LOADING = 'VIEW_LOADING';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const UPDATE_PRODUCT2 = 'UPDATE_PRODUCT2';
+export const CLEAR_PRODUCT = 'CLEAR_PRODUCT';
+export const UPDATE_DETAIL = 'UPDATE_DETAIL';
+export const CHECK_USER = 'CHECK_USER';
+export const UPDATE_PAGE='UPDATE_PAGE';
+export const CLEAR_DETAIL='CLEAR_DETAIL';
+export const UPDATE_CLASSIFY='UPDATE_CLASSIFY';
+export const UPDATE_SUIT='UPDATE_SUIT';
+export const UPDATE_CAR='UPDATE_CAR';
+export const UPDATE_NUM='UPDATE_NUM';
+export const UPDATE_ADD='UPDATE_ADD';

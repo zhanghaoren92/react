@@ -1,0 +1,40 @@
+/*fication*/
+.fication{width: 100%; background-color: #fff; padding: 5% 0;}
+.fication ul li{width: 25%; text-align: center; float: left;}
+.fication ul li span{display: inline-block; width: 62.5%;}
+.fication ul li p{color: #666666; font-size: .8em;}
+
+/*town*/
+.town .tit{width: 100%;}
+.town .bottom{width: 91.406%; margin: 3% auto;}
+.town .bottom .zuo{width: 45.705%; border: 1px solid #ea2a7a; padding: 2px; text-align: center; font-size: 0;}
+.town .bottom .zuo span{display: inline-block; height: 100%; line-height: 0; vertical-align: middle;}
+.town .bottom .you{width: 52.650%;}
+.town .bottom .you .shang{ border: 1px solid #ea2a7a; padding: 2px; text-align: center; font-size: 0;}
+.town .bottom .you .shang span{display: inline-block; height: 100%; line-height: 0; vertical-align: middle;}
+.town .bottom .you .xia{margin-top: 4%;}
+.town .bottom .last{border: 1px solid #ea2a7a; padding: 2px; margin-top: 4%; text-align: center; font-size: 0;}
+.town .bottom .last span{display: inline-block; height: 100%; line-height: 0; vertical-align: middle;}
+
+/*products*/
+.products .lists{width: 91.406%; margin: 3% auto;}
+.products .lists .list{position: relative; margin-bottom: 3%; width: 48.205%;  border: 1px solid #ea2a7a; text-align: center; font-size: 0;}
+.products .lists .list span{display: inline-block; height: 100%; line-height: 0; vertical-align: middle;}
+.products .lists .list .bt{position: absolute; width: 100%; bottom: 0; left: 0; height: 2em;}
+.products .lists .list .bt samp{position: absolute; display: block; height: 2em; width: 100%; background-color: #ee5494; bottom: 0; left: 0;}
+.products .lists .list .bt .nr{width: 100%; height: 2em; color: #fff; line-height: 2.7em; position: relative; font-size: .8em;}
+
+/*product*/
+
+pro-tit{width: 100%; height: 3em; line-height: 3em; padding-left: 20px; color: #333333; font-size: 1em;}
+.pro-ctent{width: 100%; background-color: #fff;}
+.pro-ctent .list{width: 24.999%; height: 6.5em; border-right: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; text-align: center; padding: 5% 0;}
+.pro-ctent .list .tit{color: #666666; font-size: .8em;}
+.pro-ctent .list span{height: 3.5em; display: inline-block; text-align: center;}
+.pro-ctent .list span i{display: inline-block; height: 100%; line-height: 0; vertical-align: middle;}
+.pro-ctent .last{border-right: none;}
+.pro-ctent .list img{width: 55%;}
+
+.kb{
+    height: 3.5em;
+}

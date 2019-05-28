@@ -1,0 +1,126 @@
+.sc-example {
+    padding-bottom: 13px;
+  }
+  .sub-title {
+    color: #888;
+    font-size: 14px;
+    padding: 30px 0 18px 0;
+    margin: 0;
+  }
+.am-segment{
+    border: none ;
+    border-radius: 0 !important;
+    height: 3rem;
+    background: #fff;
+  
+}
+.am-segment-item:first-child {
+    border-left-width: 1PX;
+    border: none ;
+    border-radius: 0 !important;
+}
+.am-segment-item:last-child {
+    border: none ;
+    border-radius: 0 !important;
+}
+.am-segment-item{
+    border:none !important;
+    border-radius: 0 !important;
+    color: #333;
+    font-size: 18px;
+}
+.fr {
+    float: right;
+    display: inline;
+}
+.p-list ul li{
+    width: 100%; 
+    height: 3.5em; 
+    padding: 0 5%; 
+    border-bottom: 1px solid #c9c9c9; 
+    line-height: 3.5em;
+}
+.p-list ul li .icon19,.icon20,.icon21,.icon22,.icon23,.icon24,.icon25,.icon26,.icon27,.icon28{
+    background: url(../image/icon5.png) center left no-repeat; 
+    color: #333333; 
+    padding-left: 30px; 
+    float: left;
+}
+.p-list ul li .back{
+    width: 9%; 
+    max-width: 35px; 
+    height: 3.5em; 
+    background: url(../image/right.png) center no-repeat; 
+    background-size: 50%;
+}
+.p-top{
+    width: 100%; 
+    padding: 5% 0 0; 
+    background: #ccc;    
+    text-align: center; 
+    position: relative;
+}
+.p-top .tu{
+    width: 17.8125%; 
+    height: 4.6rem;
+    margin: 3px auto; 
+    border-radius: 50%; 
+    -webkit-border-radius: 50%; 
+    overflow: hidden;
+    border: 1px solid rgb(202, 202, 202);
+}
+.p-top .name{
+    color: #fff; 
+    font-size: 1.1em;
+}
+
+.p-bottom ul li{
+    width: 33.33333333%; 
+    height: 3.5em; 
+    padding: .5em 0; 
+    color: #fff; 
+    position: relative; 
+    float: left; 
+    text-align: center;
+}
+.p-bottom ul li span{
+    position: absolute; 
+    width: 100%; 
+    left: 0; 
+    top: 0; 
+    height: 3.5em; 
+    background-color: rgba(0, 0, 0, 0.521);
+} 
+.p-bottom ul li .bt,.p-bottom ul li .price{
+    position: relative;
+    margin-bottom: 3px;
+}
+
+.p-lie{width: 100%; height: 3.5em; border-bottom: 1px solid #c9c9c9;}
+.p-lie ul li{width: 33.33%; float: left; text-align: center; height: 3.5em; line-height: 3.5em;}
+
+.icon16 span,.icon17 span{color: #b7b6b6;}
+
+.icon16,.icon17,.icon18{
+    width: 100%; 
+    padding-left: 30px; 
+    color: #333333; 
+    font-size: 1em; 
+    display: block; 
+    background: url(../image/1.jpg) 18% center no-repeat; 
+    background-size: 16%;
+}
+.icon17{background: url(../image/2.jpg) 18% center no-repeat; background-size: 22%;}
+.icon18{background: url(../image/3.jpg) 18% center no-repeat; background-size: 16%;}
+.icon20{background: url(../image/icon6.png) center left no-repeat; background-size: 21%;}
+.icon21{background: url(../image/icon7.png) center left no-repeat; background-size: 23%;}
+.icon22{background: url(../image/icon8.png) center left no-repeat; background-size: 21%;}
+.icon23{background: url(../image/icon9.png) center left no-repeat; background-size: 23%;}
+.icon24{background: url(../image/icon10.png) center left no-repeat; background-size: 21%;}
+.icon25{background: url(../image/icon11.png) center left no-repeat; background-size: 23%;}
+.icon26{background: url(../image/icon12.png) center left no-repeat; background-size: 21%;}
+.icon27{background: url(../image/icon13.png) center left no-repeat; background-size: 23%;}
+.icon28{background: url(../image/icon14.png) center left no-repeat; background-size: 23%;}
+
+.kb {height: 3.5em;}
+

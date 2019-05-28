@@ -1,0 +1,38 @@
+.header2{width: 100%; height: 3.5em; background-color: #f6f8f7; border-bottom: 1px solid #e9e9e9; padding: 0 5%; position: fixed; top: 0; left: 0; z-index: 99;}
+.header2 .left1,.header2 .right1{width: 20%; height: 3.5em;/* max-width: 56px;*/}
+.header2 .left1 .back{display: block; width: 100%; height: 3.5em; background: url(/img/back.png) center left no-repeat; background-size: 38%; max-width: 40px;}
+.header2 .middle{width: 60%; text-align: center; height: 3.5em; line-height: 3.5em;}
+.header2 .right1 .back{display: block; width: 100%; height: 3.5em; background: url(/img/home.png)right center no-repeat; background-size: 50%; max-width: 56px; float: right;}
+.header2 .right1 .back1{display: block; width: 100%; height: 3.5em; background: url(/img/icon16.png)right center no-repeat; background-size: 40%; max-width: 56px; float: right;}
+
+/*shopcar*/
+.shopcarmain{width: 100%; margin-bottom: 4em;}
+.shopcar-tit{width: 100%; height: 3em; line-height: 3em; padding-left: 5%; color: #666666;background: #eee}
+.shop-list{width: 100%; background-color: #fff; padding: 3%;}
+.shop-list .tu{width: 24.5%; padding: 2%; background-color: #f6f6f6; text-align: center; overflow: hidden; font-size: 0;}
+.shop-list .tu span{display: inline-block; height: 100%; line-height: 0; vertical-align: middle;}
+.shop-list .tu img{width: 65%; vertical-align: middle;}
+.pro-price1{width: 65%; padding: 0; line-height: 2.5em; border-bottom: none;}
+.pro-price1 .bt{color: #333333; font-size: 1em; line-height: normal;}
+.pro-price1 .fu-bt{color: #999999; line-height: normal; font-size: .9em;}
+.pro-price1 .jiage .tejia{font-size: 1.2em; color: #ea2979;}
+.pro-price1 .jiage .tejia samp{font-size: .5em;}
+
+.pro-price .you ul li{float: left; height: 2em; width: 2em; background-color: #f9f9f9; text-align: center; line-height: 2em;}
+.pro-price .you .first{border: 1px solid #dadada; color: #b2b2b2; border-radius: 3px 0 0 3px; -webkit-border-radius: 3px 0 0 3px;}
+.pro-price .you .shu{border-top: 1px solid #dadada; border-bottom: 1px solid #dadada;}
+.pro-price .you .last{border: 1px solid #dadada; color: #676767; border-radius: 0 3px 3px 0; -webkit-border-radius: 0 3px 3px 0;}
+
+.shxu{
+    background: #ea2979; color: #333333; padding-left: 30%;
+}
+.qingk{
+    background: #ea2979; color:#000;  font-size: 18px; margin-left:45%;
+}
+/*结算底部*/
+.dibu{width: 100%; height: 3em; line-height: 3em; border-top: 1px solid #f4f4f4; background-color: #fff; position: fixed; bottom: 0; left: 0;}
+.dibu .price{font-size: 1.5em; color: #ea2979; margin-left: 6%;}
+.dibu .shopcar{display: block; height: 3em; line-height: 3em; padding: 0 7%; font-size: 1em; background-color: #ea2979; color: #fff;}
+
+.dibu1{bottom: 3em;}
+.dibu .price samp{color: #666666; font-family: "微软雅黑"; font-size: .8em;}
